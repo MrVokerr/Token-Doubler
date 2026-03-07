@@ -1,0 +1,56 @@
+[
+  {
+    "cardName": "Peregrin Took",
+    "effectType": "ADD",
+    "modifierValue": 1,
+    "targetTokenType": "Food"
+  },
+  {
+    "cardName": "Chatterfang, Squirrel General",
+    "effectType": "ADD",
+    "modifierValue": 1,
+    "targetTokenType": "Squirrel"
+  },
+  {
+    "cardName": "Xavier Sal, Infested Captain",
+    "effectType": "ADD",
+    "modifierValue": 1,
+    "targetTokenType": "Phyrexian Mite"
+  },
+  {
+    "cardName": "Doubling Season",
+    "effectType": "MULT",
+    "modifierValue": 2,
+    "targetTokenType": "ALL"
+  },
+  {
+    "cardName": "Parallel Lives",
+    "effectType": "MULT",
+    "modifierValue": 2,
+    "targetTokenType": "ALL"
+  },
+  {
+    "cardName": "Mondrak, Glory Dominus",
+    "effectType": "MULT",
+    "modifierValue": 2,
+    "targetTokenType": "ALL"
+  },
+  {
+    "cardName": "Ojer Taq, Deepest Foundation",
+    "effectType": "MULT",
+    "modifierValue": 3,
+    "targetTokenType": "ALL"
+  },
+  {
+    "cardName": "Academy Manufactor",
+    "effectType": "REPLACE",
+    "modifierValue": 1,
+    "targetTokenType": "Food,Gold,Treasure"
+  },
+  {
+    "cardName": "Koma, Cosmos Serpent",
+    "effectType": "REPLACE",
+    "modifierValue": 1,
+    "targetTokenType": "Koma's Coil"
+  }
+]
